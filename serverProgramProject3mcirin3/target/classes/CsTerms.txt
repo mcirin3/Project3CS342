@@ -1,0 +1,4 @@
+Computer Science
+Languages and Automata
+Software Design
+Modular View Controller Design Pattern
